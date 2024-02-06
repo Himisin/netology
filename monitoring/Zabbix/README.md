@@ -3,7 +3,7 @@
 
 ![zabbix](https://github.com/Himisin/netology/blob/main/monitoring/Zabbix/img/Screenshot_244.jpg)
 
-'''
+```
 sudo apt -y install postgresql
 
 wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-4+ubuntu22.04_all.deb
@@ -26,7 +26,7 @@ systemctl restart zabbix-server zabbix-agent apache2
 
 systemctl enable zabbix-server zabbix-agent apache2
 
-'''
+```
 ---
 
 ### Задание 2 

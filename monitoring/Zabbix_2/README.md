@@ -5,7 +5,7 @@
 ### Задание 1
 
 
-![zadanie1](https://github.com/Himisin/netology/blob/main/monitoring/Zabbix_2/img/Screenshot_259.jpghtbyrfhyfwbz)
+![zadanie1](https://github.com/Himisin/netology/blob/main/monitoring/Zabbix_2/img/Screenshot_259.jpg)
 
 
 ---
